@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B][COLOR lime]■[/COLOR] FILMES[/B][/COLOR]</name>
+<name>[COLOR orange][B][COLOR lime]■[COLOR orange] FILMES[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Rz0yQPB/Filmes.png</thumbnail>
 <fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1A-SELFILMES-GERAL</externallink>
@@ -153,37 +153,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR siena][B] DICAS DE NAVEGAÇÃO [/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://</thumbnail>
-<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR grey].[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://</thumbnail>
-<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime]■[/COLOR][/COLOR]LINK ATIVO[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://</thumbnail>
-<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]■[/COLOR][/COLOR]LINK ATIVO[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://</thumbnail>
-<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR siena]■[/COLOR][/COLOR]INFORMATIVO SEM LINK[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://</thumbnail>
-<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
-</item>
