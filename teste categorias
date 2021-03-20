@@ -1,4 +1,157 @@
+<channels><channels>
+<channel>
+<name>[COLOR white][B] CATEGORIAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[COLOR orange] FILMES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Rz0yQPB/Filmes.png</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1A-SELFILMES-GERAL</externallink>
+<info>O MELHOR DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1B-SELSERIES-GERAL</externallink>
+<thumbnail>https://i.ibb.co/S5yQRFV/Series.png</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>SUA MARATONA ESTA AQUI </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] ANIMES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/7-ANIMES-TORRENT</externallink>
+<thumbnail>https://i.ibb.co/Lhsm6Ms/Animes-Torrent.png</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>A CULTURA ANIME REPRESENTADA AQUI</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] NOVELAS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1C-SELNOVELAS-GERAL</externallink>
+<thumbnail>https://i.ibb.co/KjMmz2m/Novelas.png</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] DESENHOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1D-SELDESENHOS-GERAL</externallink>
+<thumbnail>https://i.ibb.co/sws39H2/Desenhos.png</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>DIVERSÃO GARANTIDA PARA A CRIANÇADA </info> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] TVs ONLINE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTVs-LUMINART/main/1-SELETIVA-LISTATVs-ALLUSER</externallink>
+<thumbnail>https://i.ibb.co/SdGYpwC/TV-online.png</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] SEÇÃO NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOGDRIVE-LUMINART/main/7-SEL-SECAONOSTALGIA</externallink>
+<thumbnail>https://i.ibb.co/jwSSmb3/Nostalgia.png</thumbnail
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info> FILMES DIFÍCEIS DE ENCONTRAR NA WEB</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] SEÇÕES ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/6-ESPECIAIS-REDCAN</externallink>
+<thumbnail>https://i.ibb.co/VtyNNRv/Especiais.png</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>OS DESTAQUES DA SÉTIMA ARTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/5-PEDIDOSDOSUSUARIOS</externallink>
+<thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>OS PEDIDOS DO USUÁRIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://LINPARAPAGINA</externallink>
+<thumbnail>https://</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>OS PEDIDOS DO USUÁRIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] ACESSE CONTEUDO NO YOUTUBE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/8-YOUTUBE </externallink>
+<thumbnail>https://i.ibb.co/7JdB7Z9/youtube.png</thumbnail
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info> NOSSAS PLAYLISTS NO YOUTUBE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B][COLOR lime]■[/COLOR] DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>https://i.ibb.co/qysBRYk/fanart.jpg</fanart>
+<info>[COLOR white]COR BRANCO - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR white]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
 <channel>
 <name>[COLOR orange][B][COLOR lime]■[/COLOR] DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
