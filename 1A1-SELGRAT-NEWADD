@@ -1,17 +1,5 @@
 <channels>
 <channel>
-<name>[B][COLOR orange]  CLIQUE AQUI PARA TER DICAS DE NAVEGAÇÃO[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/yyrW8x4/ndice.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>[COLOR white]COR BRANCO - TEXTO INFORMATIVO[/COLOR] - [COLOR orange]COR LARANJA - LINK ON LINE[/COLOR]
-[COLOR red]COR VERMELHA - LINK OF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
-<channels>
-<channel>
 <name>[COLOR orange][B] CLIQUE AQUI PARA ACESSAR O CONTEUDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/1-CATEGORIAS</externallink>
 <thumbnail>https://i.ibb.co/j5gBDpZ/Entrar.png</thumbnail>
@@ -43,6 +31,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[B][COLOR orange]  CLIQUE AQUI PARA TER DICAS DE NAVEGAÇÃO[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/yyrW8x4/ndice.jpg</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>[COLOR white]COR BRANCO - TEXTO INFORMATIVO[/COLOR] - [COLOR orange]COR LARANJA - LINK ON LINE[/COLOR]
+[COLOR red]COR VERMELHA - LINK OF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ 
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] CLIQUE AQUI PARA INFORMAÇÕES DO ACESSO[/B][/COLOR]</name>
