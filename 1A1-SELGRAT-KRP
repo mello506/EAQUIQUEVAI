@@ -23,18 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B]CLIQUE AQUI PARA ACESSAR A ÁREA VIP[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/9-LISTASESPECIAISPARA%20CONTRIBUINTES</externallink>
-<thumbnail>https://i.ibb.co/tLqqfss/vip.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>AGRADECEMOS SUA VISITA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR red][B]CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
+<name>[COLOR white][B]CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/3-INFORMACOES </externallink>
 <thumbnail>https://i.ibb.co/VJv0L6N/desempnho.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
