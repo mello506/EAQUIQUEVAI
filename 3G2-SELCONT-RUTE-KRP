@@ -33,8 +33,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
 <name>[COLOR white][B]PEDIDOS DA RUTE[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1-ENT-KRP/main/3A3-PEDIDOSBRAZ-KRP</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/1-ENT-KRP/main/3G3-PEDIDOSRUTE-KRP</externallink>
 <thumbnail>https://i.ibb.co/yNxkmtR/Pedidos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS PEDIDOS DO USUÁRIO</info>
