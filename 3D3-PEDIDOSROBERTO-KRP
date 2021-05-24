@@ -148,3 +148,18 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR o
 <genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Resgate de Jessica - 1989 [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=B_WGQXE6Mjs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Resgate de Jessica[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=4o4JQEk6kl0$$lsname=[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]O Resgate de Jessica[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ptNuhSjDtXoMONbwbQEyHizYNrC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/sovd8cQgkf4hksqKgdVdiIP7Jdb.jpg</fanart>
+<info>Baseado na história real da menina de um ano e meio Jessica McClure, que caiu em um encanamento abandonado na casa de sua tia, no Texas, enquanto brincava. O cano em que ficou presa media cerca de 20 centímetros de diâmetro e tinha seis metros de profundidade. O resgate foi extremamente difícil, pois a largura do cano não permitia que nenhum bombeiro descesse para pegar a menina e havia o medo de utilizar máquinas que abalassem o terreno, o que poderia provocar o rompimento do encanamento ou que Jéssica caísse ainda mais.</info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
