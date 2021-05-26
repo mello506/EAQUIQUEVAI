@@ -44,10 +44,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-
+<channels>
+<channel>
 <name>[COLOR white][B]CLIQUE AQUI PARA INFORMAÇÕES DO ACESSO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A8-VALACEEINFO-GRATUITO</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>PRAZO DE VALIDADE</info>
