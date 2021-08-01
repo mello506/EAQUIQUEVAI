@@ -7,6 +7,24 @@
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>
+<title>[COLOR white][B] Blade Runner 2049 (2017) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=86XtZMgFziI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Blade Runner 2049[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30605424a1162ff555de22b57e59ce6c964f90fd$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Blade Runner 2049 - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b5529f0721bb6bc96e5959ddeb4d62a7a15a147$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Blade Runner 2049 - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Blade Runner 2049 - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/27056.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Blade Runner 2049 - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/21217.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Blade Runner 2049 - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qWD9E0Wgn8w6nMMutCNFAUiSHrX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dMbInuqHDbDUu2Zb81o7iggg1j1.jpg</fanart>
+<info>Após descobrir um segredo enterrado há muito tempo, que ameaça o que resta da sociedade, um novo policial embarca na busca de Rick Deckard, que está desaparecido há 30 anos.</info>
+<genre>FICÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR white][B] O Albergue (2006) [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=OVQwmX4hMHo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Albergue[/B][/COLOR]</link>
