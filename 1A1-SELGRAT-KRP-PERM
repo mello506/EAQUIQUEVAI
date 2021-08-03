@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]CLIQUE AQUI PARA ACESSAR O CONTEÚDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1-AVALIA-KRP/main/1-CATEGORIAS-AVKRP</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/1-MENU-KRP/main/1-CATEGORIAS-KRP</externallink>
 <thumbnail>https://i.ibb.co/j5gBDpZ/Entrar.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>AGRADECEMOS SUA VISITA</info>
@@ -45,4 +45,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]ACESSO PREMIUM LIBERADO POR 24 HORAS [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A8-VALACEEINFO-GRATUITO</externallink>
+<thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>PRAZO DE VALIDADE </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
