@@ -10,18 +10,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]O Esquadrão Suicida (2021) [/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=h6bWwRCtg28$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Esquadrao Suicida[/B][/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a920c826e768c6eb95e2d9644d85a68a5cf0122$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - FHD DUAL[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
 
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg</fanart>
