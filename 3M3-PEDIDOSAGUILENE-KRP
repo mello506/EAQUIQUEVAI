@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w62gR1d/TVs-ONLINE-SERVER2.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w62gR1d/TVs-ONLINE-SERVER2.png",[COLOR orange][B]LS - TVs ONLINE[COLOR yellow] -> [COLOR white]JOGO PARA O AQUILENE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://n.srv1.xyz:8880/ACML2/67293456jg/32936
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=[COLOR orange][B]LS - TVs[COLOR yellow] -> [COLOR white]SERVER 2[/B][/COLOR];url=http://n.srv1.xyz:8880/ACML2/67293456jg/3293536
